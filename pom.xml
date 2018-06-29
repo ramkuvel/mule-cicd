@@ -114,7 +114,7 @@
 		            <configuration>
 		               <deploymentType>cloudhub</deploymentType>
 		               <muleVersion>${mule.version}</muleVersion>
-		               <username>ali786</username>
+		               <username>veltest</username>
 		               <password>${pwd}</password>
 		               <workerType>Micro</workerType>
 		               <redeploy>true</redeploy>
